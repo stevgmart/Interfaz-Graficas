@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\bin\Debug\Primera Interfaz.exe.config
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\bin\Debug\Primera Interfaz.exe
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\bin\Debug\Primera Interfaz.pdb
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera_Interfaz.Form1.resources
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera_Interfaz.Properties.Resources.resources
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.exe
+C:\Users\HP\source\repos\Primera Interfaz\Primera Interfaz\obj\Debug\Primera Interfaz.pdb

@@ -1,0 +1,11 @@
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\bin\Debug\Interfaz De Tienda.exe.config
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\bin\Debug\Interfaz De Tienda.exe
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\bin\Debug\Interfaz De Tienda.pdb
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.csproj.AssemblyReference.cache
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.csproj.SuggestedBindingRedirects.cache
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz_De_Tienda.Form1.resources
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz_De_Tienda.Properties.Resources.resources
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.csproj.GenerateResource.cache
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.csproj.CoreCompileInputs.cache
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.exe
+F:\Mis Trabajos\Interfaz De Tienda\Interfaz De Tienda\obj\Debug\Interfaz De Tienda.pdb
